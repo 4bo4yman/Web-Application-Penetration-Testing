@@ -1,0 +1,15 @@
+# Basic HTTP Authentication
+
+● Basic HTTP authentication is a simple authentication mechanism used in web applications and services to restrict access to certain resources or functionalities.
+
+● It's considered "basic" because it's uncomplicated and relies on a straightforward username and password combination. However, it's important to note that basic HTTP authentication is not secure on its own when used over an unencrypted connection (HTTP).
+
+● It should only be used over HTTPS to ensure that the credentials are transmitted securely.
+
+![image](https://github.com/4bo4yman/Web-Application-Penetration-Testing/assets/156849852/e1d16d98-79d8-4641-8217-240938eae64b)
+
+
+If you want learn more about this vuln please download this [PDF](https://github.com/4bo4yman/Web-Application-Penetration-Testing/blob/main/OWASP%20Top%2010/2.%20Broken%20Authentication/HTTP%20Method%20Tampering/HTTP%20Method%20Tampering.pdf).
+
+
+If you practice Lap for this vuln please Download this [PDF]().
