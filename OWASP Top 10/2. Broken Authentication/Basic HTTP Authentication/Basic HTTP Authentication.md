@@ -12,4 +12,4 @@
 If you want learn more about this vuln please download this [PDF](https://github.com/4bo4yman/Web-Application-Penetration-Testing/blob/main/OWASP%20Top%2010/2.%20Broken%20Authentication/HTTP%20Method%20Tampering/HTTP%20Method%20Tampering.pdf).
 
 
-If you practice Lap for this vuln please Download this [PDF]().
+If you practice Lap for this vuln please Download this [PDF](https://github.com/4bo4yman/Web-Application-Penetration-Testing/blob/main/OWASP%20Top%2010/2.%20Broken%20Authentication/Basic%20HTTP%20Authentication/Lap%3A%20Basic%20HTTP%20Auth.pdf).
