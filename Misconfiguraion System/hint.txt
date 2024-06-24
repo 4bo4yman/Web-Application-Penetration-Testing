@@ -1,0 +1,1 @@
+An incorrect or subobtimal configuration of an information system or system component that may lead to vulnerabilities.
