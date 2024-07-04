@@ -1,4 +1,5 @@
-![image](https://github.com/4bo4yman/Web-Application-Penetration-Testing/assets/156849852/a69b3a7c-b465-404f-822d-6f33da76fb58)Hi hackers, Today we will play this [LAB](https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-exploiting-blind-sql-injection-by-triggering-time-delays/sql-injection/blind/lab-time-delays-info-retrieval)
+
+# Hi hackers, Today we will play this [LAB](https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-exploiting-blind-sql-injection-by-triggering-time-delays/sql-injection/blind/lab-time-delays-info-retrieval)
 
 
 This our WEBSITE
