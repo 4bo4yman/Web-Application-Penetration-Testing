@@ -29,8 +29,7 @@ Hmmm WAF detected this attack :)
 
 Ok Let's encoding this payload to bypass this fuck WAF :(
 
-[Screencast from 2024-07-05 12:19:54 AM.webm](https://github.com/4bo4yman/Web-Application-Penetration-Testing/assets/156849852/84b68950-5162-438b-b987-c5812e053bcf)
-
+[Screencast from 2024-07-05 12:19:08 AM.webm](https://github.com/4bo4yman/Web-Application-Penetration-Testing/assets/156849852/5d20fceb-584e-4d1e-bc10-b36cd454f427)
 
 ### WOoow we can exploit it . Let's go steal acccount of administrator , we will use this payload:
 
