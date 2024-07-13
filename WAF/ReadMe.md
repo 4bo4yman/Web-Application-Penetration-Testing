@@ -14,3 +14,6 @@
 
 The best solution to protect the web is whitelisting, but its big problem is that it reports false alarms, meaning it reports that a file contains a virus, and it is a safe file.
 That's why they mostly use blacklisting
+
+> [!TIP]
+> All WAFs can be bypassed!
