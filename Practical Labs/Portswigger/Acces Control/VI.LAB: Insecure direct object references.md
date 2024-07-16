@@ -31,25 +31,41 @@ https://insecure-website.com/profile?id=124
 
 
 
+### After navigating the site we noticed a section ```live chat```.
+
+
+![image](https://github.com/user-attachments/assets/643442ad-f754-47f3-8b17-c28a44489d24)
+
+### send any message and enter ```transcript```
+
+#### notice that save information our messages in order.
+
+
+![image](https://github.com/user-attachments/assets/711ae2bf-9d8b-46f5-86c5-3248c4ba3456)
+
+
+#### refer to our message is 11 message in ```11.txt``` but we want reach to ```1.txt``` we will running burp suite and intercepting this request for ```transcript``` and modifying it.
+
+![image](https://github.com/user-attachments/assets/6530012a-1e91-4853-988d-c8f92a95e6fe)
+
+
+#### we try change ```11.txt``` to ```1.txt```:
+
+![image](https://github.com/user-attachments/assets/e2745b6a-63b6-408c-9e3f-bf884ee988fd)
+
+Great, Now we know password of carlos, Let's login on his account!
+
+![image](https://github.com/user-attachments/assets/8ded8a09-06cb-45ab-8352-e8b54c96ccc0)
 
 
 
 
 
+## Congratulations, friends❤️‍🔥
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/02755225-ab40-477a-9b53-725ca3ee6358" >
+</p>
 
 
 
