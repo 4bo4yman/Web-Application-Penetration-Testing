@@ -108,7 +108,9 @@ Referer: https://insecure-website.com/admin
 
 
 
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/49ddb0ee-3949-486e-ab16-e23eb9e8a7db" >
+</p>
 
 
 
