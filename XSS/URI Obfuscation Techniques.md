@@ -102,6 +102,8 @@ http://vulnerable.com/search?q=%3Cscript%3Ealert%28%27XSS%27%29%3C/script%3E
 http://vulnerable.com/search?q=%3Cscript%3Ealert%28%27XSS%27%29%3C%2Fscript%3E
 ```
 
+### If you want to play some with IP addresses, this online tool can be very useful:
+[IP Converter](http://www.silisoftware.com/tools/ipconverter.php)
 
 
 
