@@ -1,8 +1,11 @@
 ## Welcome, my friend. Today we will start the [23. XSS lab](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-url-some-characters-blocked) in ```portswigger```
 ### Let's play this lab:
 
+![image](https://github.com/user-attachments/assets/411bc57a-9212-4643-9db4-8de96ba867ac)
 
 #### First, we navigate inside the browser
+
+![image](https://github.com/user-attachments/assets/99246c4a-7080-4e21-99db-874dcd099e31)
 
 
 
