@@ -1,4 +1,4 @@
-## Welcome, my friend. Today we will start the [21. XSS lab](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-string-angle-brackets-double-quotes-encoded-single-quotes-escaped) in ```portswigger```
+## Welcome, my friend. Today we will start the [22. XSS lab](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-string-angle-brackets-double-quotes-encoded-single-quotes-escaped) in ```portswigger```
 ### Let's play this lab:
 
 ![image](https://github.com/user-attachments/assets/d5752fa9-ea93-46d4-a204-f0de9866771c)
