@@ -29,19 +29,11 @@ location='https://0ac400d8031a89ac8368053d001200cb.web-security-academy.net/?sea
 </script>
 ```
 
-![image](https://github.com/user-attachments/assets/6a989dd0-9a29-4bbf-91ae-dfd8668ae605)
+![image](https://github.com/user-attachments/assets/7f09cbf4-04a4-4bff-a23b-c9af23143b98)
 
+### Let's enter on ```store``` then deliver exploit to victim
 
-
-### Let's enter ```javascript``` code in body but this code don't need to useraction:
-
-
-```
-<iframe src="https://0acc008b038f78ee88f91432009f001c.web-security-academy.net/#" onload="this.src+='<img src=x onerror=print()>'"></iframe>
-```
-
-
-![image](https://github.com/user-attachments/assets/b6f95238-0f94-4bfc-be24-64be13e460ab)
+![image](https://github.com/user-attachments/assets/7140e423-34ae-4cdf-8e44-2406b1924ede)
 
 
 -------
